@@ -1,0 +1,58 @@
+* {
+
+background-color: darkgrey;
+
+}
+img {
+text-align: center;
+
+}
+h1 {
+text-align: center;
+
+}
+h2 {
+    text-align: center;
+
+}
+
+ul {
+
+list-style-type: none;
+
+    text-align: center;
+
+}
+li{
+
+    text-align: center;
+}
+
+.king1 {
+text-align: center;
+
+}
+ .hay {
+background-color: antiquewhite;
+
+ }
+
+
+footer {
+    padding: 20px;
+    min-height: 50em;
+    background-color: rgb(20, 20, 20);
+    }
+    .content-foot-card {
+
+        min-height: 30vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        
+        }
+
+        footer .main-text h1 {
+            color: white;
+            }
